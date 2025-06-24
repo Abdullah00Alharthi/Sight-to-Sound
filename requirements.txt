@@ -1,0 +1,13 @@
+gTTS
+playsound==1.2.2
+opencv-python
+ultralytics
+mediapipe
+protobuf
+google
+pyaudio
+vosk
+nltk
+pathlib
+#IMPORTANT NOTE | for macOS users: Uncomment the following line to install PyObjC
+#PyObjC
